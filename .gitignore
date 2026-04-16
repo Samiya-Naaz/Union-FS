@@ -1,0 +1,3 @@
+*.o
+*.out
+unionfs_test_env/
